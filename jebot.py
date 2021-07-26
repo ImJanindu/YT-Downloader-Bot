@@ -31,7 +31,7 @@ async def start(client, message):
                chat_id=message.chat.id,
                text="""<b>Hey There, I'm AnyDL Bot
 
-I can download video or audio from Youtube, Pornhub and Xhamster. Made by @JEBotZ.
+I can download video or audio from Youtube, Pornhub and Xhamster. Made by @PARVSHAH_01.
 
 Hit help button to find out more about how to use me</b>""",   
                             reply_markup=InlineKeyboardMarkup(
